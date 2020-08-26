@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "NewActorComponent.h"
 #include "GameFramework/Actor.h"
 
