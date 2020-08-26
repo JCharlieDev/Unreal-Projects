@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicPlatform",
+			"Path": "D:\\GitHub Repos\\Unreal-Projects\\BasicPlatform\\BasicPlatform\\Source\\BasicPlatform.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicPlatformEditor",
+			"Path": "D:\\GitHub Repos\\Unreal-Projects\\BasicPlatform\\BasicPlatform\\Source\\BasicPlatformEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

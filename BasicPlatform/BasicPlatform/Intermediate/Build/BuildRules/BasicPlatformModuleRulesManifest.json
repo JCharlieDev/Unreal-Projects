@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub Repos\\Unreal-Projects\\BasicPlatform\\BasicPlatform\\Source\\BasicPlatform\\BasicPlatform.Build.cs",
+		"D:\\GitHub Repos\\Unreal-Projects\\BasicPlatform\\BasicPlatform\\Source\\BasicPlatform.Target.cs",
+		"D:\\GitHub Repos\\Unreal-Projects\\BasicPlatform\\BasicPlatform\\Source\\BasicPlatformEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

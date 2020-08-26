@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BasicPlatform.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AB378C21-8B90-4641-AA28-FD19B4713CA5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicPlatform.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BasicPlatformEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BB442A15-16CE-43AB-8160-567EE306C8C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BasicPlatform">
+      <UniqueIdentifier>{6259A15A-9E6B-4FE2-AC90-114A30E31C40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicPlatform\BasicPlatform.Build.cs">
+      <Filter>Source\BasicPlatform</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BasicPlatform\BasicPlatform.cpp">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicPlatform\BasicPlatform.h">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicPlatform\BasicPlatformCharacter.cpp">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicPlatform\BasicPlatformCharacter.h">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicPlatform\BasicPlatformGameMode.cpp">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicPlatform\BasicPlatformGameMode.h">
+      <Filter>Source\BasicPlatform</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

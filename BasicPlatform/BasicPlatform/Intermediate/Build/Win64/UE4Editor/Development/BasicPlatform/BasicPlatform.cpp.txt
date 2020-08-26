@@ -1,0 +1,2 @@
+D:\GitHub Repos\Unreal-Projects\BasicPlatform\BasicPlatform\Intermediate\Build\Win64\UE4Editor\Development\BasicPlatform\Definitions.BasicPlatform.h
+D:\GitHub Repos\Unreal-Projects\BasicPlatform\BasicPlatform\Source\BasicPlatform\BasicPlatform.h
