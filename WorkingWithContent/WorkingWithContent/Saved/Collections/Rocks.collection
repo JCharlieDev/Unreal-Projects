@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:F6F72CB7-4BEC-341A-F4BA-DC8C1E80FB21
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_LargeRock.M_Plains_LargeRock
+/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_SmallRock.M_Plains_SmallRock
+/Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt
+/Game/StarterContent/Props/Materials/M_Rock.M_Rock
